@@ -8,3 +8,6 @@ NetworkNotification/NetworkNotification/bin/Release/NetworkNotification.exe
 And save it to your Windows folder:
 
 %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
+
+
+This way the tray icon will show every time you start Windows. (Depending on your Windows security settings you might need to allow it to run.)
