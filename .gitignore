@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/NetworkNotification/.vs/NetworkNotification/v16
+/NetworkNotification/NetworkNotification/obj
+/NetworkNotification/NetworkNotification/bin/Debug
+/NetworkNotification/NetworkNotification/bin/Release/NetworkNotification.pdb
